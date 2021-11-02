@@ -4,7 +4,7 @@ Our group has two major areas to develop: threshold and notification center.
 ## Threshold
 For the threshold, users can set a value after following the sensor.  When a measured value transpasses the threshold, the user is notified.
 
-## Notification center / Following Users
+## Notification center
 ...
 
 ## Links
