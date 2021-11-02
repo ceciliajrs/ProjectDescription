@@ -5,7 +5,7 @@ Our group has two major areas to develop: threshold and notification center.
 For the threshold, users can set a value after following the sensor.  When a measured value transpasses the threshold, the user is notified.
 
 ## Notification center
-...
+All notifications the user has appears at the notification center: threshold, unusual measurement, broken sensors.
 
 ## Links
 [Trello](https://trello.com/b/UecS2flC/socialopensensemap)
